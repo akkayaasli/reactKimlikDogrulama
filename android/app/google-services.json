@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465365003157",
+    "firebase_url": "https://kimlikdogrulama-3ed0b.firebaseio.com",
+    "project_id": "kimlikdogrulama-3ed0b",
+    "storage_bucket": "kimlikdogrulama-3ed0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465365003157:android:b3c5db9de7d4415c96e49c",
+        "android_client_info": {
+          "package_name": "com.kimlik_dogrulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465365003157-v95spl0dhl0m5aargfnk2b98lnjfr6dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZc4Z3R5saepNIa0hTJIj5cwEMGrKPq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465365003157-v95spl0dhl0m5aargfnk2b98lnjfr6dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
